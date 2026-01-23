@@ -33,6 +33,13 @@
             "givenName": "Josep Maria",
             "familyName": "Martí"
         },
+        "Driver2": {
+            "driverId": "tsolov",
+            "permanentNumber": "3",
+            "code": "TSO",
+            "givenName": "Nikola",
+            "familyName": "Tsolov"
+        },
         "Constructor": {
             "constructorId": "campos",
             "name": "Campos"
@@ -189,6 +196,13 @@
             "givenName": "Amaury",
             "familyName": "Cordeel"
         },
+        "Driver2": {
+            "driverId": "stenshorne",
+            "permanentNumber": "16",
+            "code": "STE",
+            "givenName": "Martinius",
+            "familyName": "Stenshorne"
+        },
         "Constructor": {
             "constructorId": "rodin",
             "name": "Rodin Motorsport"
@@ -241,6 +255,13 @@
             "givenName": "Sami",
             "familyName": "Meguetounif"
         },
+        "Driver2": {
+            "driverId": "van_hoepen",
+            "permanentNumber": "22",
+            "code": "VHO",
+            "givenName": "Laurens",
+            "familyName": "Van Hoepen"
+        },
         "Constructor": {
             "constructorId": "trident",
             "name": "Trident"
@@ -253,6 +274,13 @@
             "code": "EST",
             "givenName": "Max",
             "familyName": "Esterson"
+        },
+        "Driver2": {
+            "driverId": "inthraphuvasak",
+            "permanentNumber": "23",
+            "code": "TIN",
+            "givenName": "Tasanapol",
+            "familyName": "Inthraphuvasak"
         },
         "Constructor": {
             "constructorId": "trident",
