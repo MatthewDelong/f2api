@@ -5467,6 +5467,7 @@
                 },
                 {
                     "number": "22",
+                    "reserveDriver": true,
                     "position": "17",
                     "laps": "21",
                     "gap": "89.844",
@@ -5479,6 +5480,7 @@
                 },
                 {
                     "number": "23",
+                    "reserveDriver": true,
                     "position": "NC",
                     "laps": "7",
                     "gap": "DNF",
@@ -5733,6 +5735,7 @@
                 },
                 {
                     "number": "22",
+                    "reserveDriver": true,
                     "position": "17",
                     "laps": "29",
                     "gap": "64.205",
@@ -5890,6 +5893,7 @@
                 },
                 {
                     "number": "16",
+                    "reserveDriver": true,
                     "position": "7",
                     "laps": "23",
                     "gap": "3.933",
@@ -5926,6 +5930,7 @@
                 },
                 {
                     "number": "3",
+                    "reserveDriver": true,
                     "position": "10",
                     "laps": "23",
                     "gap": "6.490",
@@ -6034,6 +6039,7 @@
                 },
                 {
                     "number": "22",
+                    "reserveDriver": true,
                     "position": "19",
                     "laps": "23",
                     "gap": "20.164",
@@ -6070,6 +6076,7 @@
                 },
                 {
                     "number": "23",
+                    "reserveDriver": true,
                     "position": "NC",
                     "laps": "13",
                     "gap": "DNF",
@@ -6156,6 +6163,7 @@
                 },
                 {
                     "number": "3",
+                    "reserveDriver": true,
                     "position": "7",
                     "laps": "32",
                     "gap": "15.959",
@@ -6252,6 +6260,7 @@
                 },
                 {
                     "number": "16",
+                    "reserveDriver": true,
                     "position": "15",
                     "laps": "32",
                     "gap": "37.092",
@@ -6385,6 +6394,7 @@
                 },
                 {
                     "number": "3",
+                    "reserveDriver": true,
                     "position": "3",
                     "laps": "23",
                     "gap": "9.605",
@@ -6517,6 +6527,7 @@
                 },
                 {
                     "number": "22",
+                    "reserveDriver": true,
                     "position": "14",
                     "laps": "23",
                     "gap": "29.811",
@@ -6565,6 +6576,7 @@
                 },
                 {
                     "number": "23",
+                    "reserveDriver": true,
                     "position": "18",
                     "laps": "23",
                     "gap": "36.726",
@@ -6601,6 +6613,7 @@
                 },
                 {
                     "number": "16",
+                    "reserveDriver": true,
                     "position": "21",
                     "laps": "22",
                     "gap": "DNF",
@@ -6759,6 +6772,7 @@
                 },
                 {
                     "number": "3",
+                    "reserveDriver": true,
                     "position": "12",
                     "laps": "33",
                     "gap": "30.710",
@@ -6795,6 +6809,7 @@
                 },
                 {
                     "number": "16",
+                    "reserveDriver": true,
                     "position": "15",
                     "laps": "33",
                     "gap": "38.432",
@@ -6819,6 +6834,7 @@
                 },
                 {
                     "number": "23",
+                    "reserveDriver": true,
                     "position": "17",
                     "laps": "33",
                     "gap": "52.498",
@@ -6879,6 +6895,7 @@
                 },
                 {
                     "number": "22",
+                    "reserveDriver": true,
                     "position": "NC",
                     "laps": "0",
                     "gap": "DNS",
