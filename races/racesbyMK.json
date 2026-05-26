@@ -95,6 +95,12 @@
         "location": "Miami Gardens",
         "year": "2026"
     },
+    "20263": {
+        "circuitId": "villeneuve",
+        "raceName": "Canadian Grand Prix",
+        "location": "Montreal",
+        "year": "2026"
+    },
     "20264": {
         "circuitId": "monaco",
         "raceName": "Monaco Grand Prix",
